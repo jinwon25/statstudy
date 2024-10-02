@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+## Chapter 04 확률변수와 확률분포<br>-R과 Python을 활용한 기초통계플러스알파 -
+=======
 ## Chapter 04 확률변수와 확률분포<br>-R과 Python을 활용한 기초통계플러스알파-
+>>>>>>> 0ffe20208c988f01094fa5a7ee14427063c7d201
 
 ### 4.1 확률변수와 확률분포
 
@@ -87,7 +91,10 @@ $P(X = 3) = F(3) - F(2)$<br>
 
 #### 4.4.2 연속형 확률변수의 누적분포함수
 - 연속형 확률변수 X의 확률밀도함수가 다음과 같을 때,<br>
-$f(x) = \begin{cases} 1, & 0 \leq x \leq 1 \\0, & \text{다른 곳에서}\end{cases}$
+$f(x) = \begin{cases}
+1, & 0 \leq x \leq 1 \\
+0, & \text{다른 곳에서}
+\end{cases}$
 - 연속형 확률변수 \(X\)의 누적분포함수 \(F(x)\)<br>
 (i) $x < 0; F(x) = P(X \leq x) = \int_{-\infty}^{x} 0 dt = 0$<br>
 (ii) $0 \leq x < 1; F(x) = P(X \leq x) = \int_{-\infty}^{0} 0 dt + \int_{0}^{x} 1 dt = \left[t \right]_0^x = x$<br>
