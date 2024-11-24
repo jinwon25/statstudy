@@ -1,6 +1,6 @@
 # 벌거벗은 통계<br>-찰스 윌런
 
-![스크린샷](../image/screenshot17.png)
+![스크린샷](../image/screenshot17.png height="100px" width="300px")
 
 ```
 "세상에는 세 가지 거짓말이 있으니, 첫째는 그냥 거짓말, 둘째는 새빨간 거짓말, 그리고 마지막은 통계다."
